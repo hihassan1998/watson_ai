@@ -9,6 +9,7 @@ This project utilizes embedded Watson AI libraries to create a web application f
 
 ### Step 1: Cloned Repository
 
+Repo to clone: https://github.com/ibm-developer-skills-network/zzrjt-practice-project-emb-ai
 I've cloned this repository to get started with the project.
 
 ### Step 2: Created a Sentiment Analysis Application using Watson NLP Library
