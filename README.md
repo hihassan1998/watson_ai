@@ -6,6 +6,7 @@
 This project utilizes embedded Watson AI libraries to create a web application for sentiment analysis on a provided text. The application is deployed using the Flask framework.
 
 ## Project Showcase
+![watsonai_csharp](https://github.com/hihassan1998/watson_ai/assets/150392365/f0e9f531-cab8-4620-9db2-f6d2c101fff6)
 
 ### Step 1: Cloned Repository
 
